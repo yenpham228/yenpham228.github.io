@@ -16,11 +16,11 @@ The code can be found [here](https://senselab.med.yale.edu/modeldb/ShowModel?mod
 
 # Simulations in idealistic 3D geometries of fine processes based on recent super-resolution microscopy data 
  Simulations published in [Denizot et al., bioRxiv, 2021](https://www.biorxiv.org/content/10.1101/2021.02.24.432635v4). Reaction-diffusion simulations were performed in 3D meshes that were designed from the latest data available from super-resolution microscopy on astrocytes from [Arizono et al., Nature Communications, 2020](https://www.nature.com/articles/s41467-020-15648-4). The high spatial resolution of this model allows to propose plausible mechanisms by which astrocyte morphology at the nanoscale, notably shaft width, can influence local calcium dynamics and thus affect specialized neuron-astrocyte communication. 
- The simulation code and 3D meshes designed in this study can be downloaded [here](https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=266928#tabs-1)
+ The simulation code and 3D meshes designed in this study can be downloaded [here](https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=266928#tabs-1).
  
  # Analysis of geometrical properties of 3D meshes
  Scripts implemented in python to quantify geometrical properties of 3D meshes using [Blender software](https://www.blender.org/). They have been used in [Denizot et al., bioRxiv, 2022](https://www.biorxiv.org/content/10.1101/2022.02.28.482292v2) and are available [here](https://gitfront.io/r/user-8990396/a5089704537f197d16b59d40ede3859b9d43f959/PAP-ER/tree/GeometryAnalysis/).
  
  # Generation of realistic perisynaptic astrocytic processes meshes with various endoplasmic reticulum distributions and constant shape
-  Scripts implemented in python to generate 3D meshes of perisynaptic astrocytic processes with various ER distributions and constant shape using [Blender software](https://www.blender.org/). The code and resulting meshes are available [here](https://gitfront.io/r/user-8990396/a5089704537f197d16b59d40ede3859b9d43f959/PAP-ER/tree/PAPMeshGeneration/) and were used in [Denizot et al., bioRxiv, 2022](https://www.biorxiv.org/content/10.1101/2022.02.28.482292v2).
+ Scripts implemented in python to generate 3D meshes of perisynaptic astrocytic processes with various ER distributions and constant shape using [Blender software](https://www.blender.org/). The code and resulting meshes are available [here](https://gitfront.io/r/user-8990396/a5089704537f197d16b59d40ede3859b9d43f959/PAP-ER/tree/PAPMeshGeneration/) and were used in [Denizot et al., bioRxiv, 2022](https://www.biorxiv.org/content/10.1101/2022.02.28.482292v2).
   
