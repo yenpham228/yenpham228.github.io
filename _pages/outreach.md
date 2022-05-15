@@ -1,4 +1,7 @@
-
+---
+permalink: /outreach/
+title: "Outreach"
+---
 
 During my spare time, I enjoy doing some science communication and participating in public outreach events. Communication in research often occurs among experts, depriving the general public from information about the outstanding work being performed in the field. I hope that with my former, present and future involvements in public outreach, I contribute to bridging the gap between research and society.
 
