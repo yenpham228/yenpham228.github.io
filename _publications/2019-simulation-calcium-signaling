@@ -6,6 +6,7 @@ excerpt:
 date: 2019-08-19
 venue: 'PLOS Computational Biology'
 paperurl: '/files/pdf/2019-simulation-calcium-signaling.pdf'
-link: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006795
+link: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006795'
+code: 'https://senselab.med.yale.edu/modeldb/enterCode.cshtml?model=247694'
 citation: 'Denizot, A., Arizono, M., Nägerl, U.V., Soula, H., Berry, H., 2019. Simulation of calcium signaling in fine astrocytic processes: Effect of spatial properties on spontaneous activity. PLOS Comput. Biol. 15, e1006795. https://doi.org/10.1371/journal.pcbi.1006795'
 ---
