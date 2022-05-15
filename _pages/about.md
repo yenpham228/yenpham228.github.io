@@ -8,8 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am Audrey, currently a scientist working on how the brain processes information. I am a postdoctoral fellow of the Japan Society for the Promotion of Science ([JSPS](https://www.jsps.go.jp/english/)) at the [Computational Neuroscience Unit](https://groups.oist.jp/cnu), [Okinawa Institute of Science and Technology](https://www.oist.jp/), Japan. I am also a member of the editorial and director boards of [Papier Mâché](https://papiermachesciences.org/), a website for the dissemination of scientific publications, in French. Its objective is to make them accessible and understandable for every French-speaking person.
+Welcome to my personal website! 
 
-I got a Master degree in Biology from [ENS Lyon](http://www.ens-lyon.fr/en/), France and a PhD in computational neuroscience from [INSA Lyon](https://biosciences.insa-lyon.fr/), France. You can find more details in my [CV](cv).
+I am a scientist working on how the brain processes information. More precisely, I aim at better understanding how a certain type of cells in our brain, astrocytes, contribute to brain function and to pathologies of the nervous system. You can find more details on my [research](research), [code](code), [workshops](workshops) and [publications](publications) on the dedicated pages.
 
-Please do not hesitate to reach out to me by [email](mailto:audrey.denizot3@oist.jp) or DM me on [Twitter](https://twitter.com/ADenizot)!
+I am currently a postdoctoral fellow of the Japan Society for the Promotion of Science ([JSPS](https://www.jsps.go.jp/english/)) at the [Computational Neuroscience Unit](https://groups.oist.jp/cnu), [Okinawa Institute of Science and Technology](https://www.oist.jp/), Japan. 
+
+I have a PhD in computational neuroscience from [INSA Lyon](https://biosciences.insa-lyon.fr/) and Ecole Doctorale [InfoMaths](http://edinfomaths.universite-lyon.fr/), France and a Master degree in Biology from [ENS Lyon](http://www.ens-lyon.fr/en/) (more details in my [CV](cv)).
+
+Outside research in computational neuroscience, I [teach](teaching) in biology and am involved in public [outreach](outreach) initiatives in France.
+
+Please do not hesitate to reach out to me by [email](mailto:audrey.denizot3@oist.jp) or to DM me on [Twitter](https://twitter.com/ADenizot)!
