@@ -6,8 +6,6 @@ The goal of my work is to better understand how the brain functions, notably how
 
 To better understand the roles of astrocytes in brain function, I use computational approaches to study how they process information and how they communicate with neighboring cells, both in health and disease.
 
-You can find out more on my [publications](publications) and [code](code) on the dedicated pages of the website.
-
 # Videos 
 ## 3D rendering of a hippocampal astrocytic volume
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bwDJMZDMEeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
