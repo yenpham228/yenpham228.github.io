@@ -14,13 +14,21 @@ You can find out more on my [publications](publications) and [code](code) on the
 3D rendering of a hippocampal astrocytic volume and its neighboring synapses, produced by Pavel Puchenkov, SCDA, OIST, Japan. This video is part of Denizot et al., bioRxiv, 2022 ([code](https://gitfront.io/r/user-8990396/a5089704537f197d16b59d40ede3859b9d43f959/PAP-ER/), download the paper [here](/files/pdf/2022-endoplasmic-reticulum-astrocytic.pdf)).
 
 ## Research Project Presentation, Computational Neuroscience Unit, OIST, June 2020
-[![Research Project, CNU, OIST, 2020](/images/research/cns-june2020.png)](https://www.youtube.com/watch?v=KpaIVOMi_tA&t=365s "Research Project, CNU, OIST, 2020")
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/watch?v=KpaIVOMi_tA&t=365s" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 Presentation of my research as a Postdoctoral Scholar at the Computational Neuroscience Unit, OIST, Japan in June 2020.
 
 # Talks
 Some of my recent talks have been recorded:
 ## Spatially-Extended Simulations Predict the Effect of ER Distribution on Astrocytic Microdomain Ca2+ Activity, ACM NANOCOM, Sept. 2021
-[![Spatially-Extended Simulations Predict the Effect of ER Distribution on Astrocytic Microdomain Ca2+ Activity, Sept. 2021](/images/research/ACM-sept2021.png)](https://www.youtube.com/watch?v=lD4gbLxHFpU "Spatially-Extended Simulations Predict the Effect of ER Distribution on Astrocytic Microdomain Ca2+ Activity, Sept. 2021")
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/watch?v=lD4gbLxHFpU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 Invited talk at the 8th ACM International Conference on Nanoscale Computing and Communication Virtual Conference, entitled “Spatially-Extended Simulations Predict the Effect of ER Distribution on Astrocytic Microdomain Ca2+ Activity”, September 2021. This talk was part of the “Astrocytes in modulation of subcellular and cellular molecular neuronal communication” Special Session, chaired by Dr. Jari Hyttinen.
 
 ## Disentangling astrocytic calcium signals: insights from spatially-extended models, CNS*2021, July 2021
