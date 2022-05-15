@@ -9,17 +9,17 @@ To better understand the roles of astrocytes in brain function, I use computatio
 You can find out more on my [publications](publications) and [code](code) on the dedicated pages of the website.
 
 ## Videos 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=bwDJMZDMEeM/0.jpg)](https://www.youtube.com/watch?v=bwDJMZDMEeM)
+[![IMAGE ALT TEXT HERE](/images/research/ERAstroRender-April2022.png)](https://www.youtube.com/watch?v=bwDJMZDMEeM)
 3D rendering of a hippocampal astrocytic volume and its neighboring synapses, produced by Pavel Puchenkov, SCDA, OIST, Japan.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=KpaIVOMi_tA&t=365s/0.jpg)](https://www.youtube.com/watch?v=KpaIVOMi_tA&t=365s)
+[![Research Project, CNU, OIST, 2020](/images/research/cns-june2020.png)](https://www.youtube.com/watch?v=KpaIVOMi_tA&t=365s "Research Project, CNU, OIST, 2020")
 Presentation of my research as a Postdoctoral Scholar at the Computational Neuroscience Unit, OIST, Japan in June 2020.
 
 ## Talks
 Some of my recent talks have been recorded:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=lD4gbLxHFpU/0.jpg)](https://www.youtube.com/watch?v=lD4gbLxHFpU)
+[![IMAGE ALT TEXT HERE](/images/research/ACM-sept2021.png)](https://www.youtube.com/watch?v=lD4gbLxHFpU)
 Invited talk at the 8th ACM International Conference on Nanoscale Computing and Communication Virtual Conference, entitled “Spatially-Extended Simulations Predict the Effect of ER Distribution on Astrocytic Microdomain Ca2+ Activity”, September 2021. This talk was part of the “Astrocytes in modulation of subcellular and cellular molecular neuronal communication” Special Session, chaired by Dr. Jari Hyttinen.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=8ls3dLKFYN0&t=1514s/0.jpg)](https://www.youtube.com/watch?v=8ls3dLKFYN0&t=1514s)
+[![IMAGE ALT TEXT HERE](/images/research/ocns-july2021.png)](https://www.youtube.com/watch?v=8ls3dLKFYN0&t=1514s)
 Invited talk at the annual Computational Neuroscience meeting CNS*2021, entitled "Disentangling astrocytic calcium signals: insights from spatially-extended models". online meeting, July 2021.
