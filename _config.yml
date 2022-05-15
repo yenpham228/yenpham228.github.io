@@ -187,9 +187,6 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/
-  resources:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
