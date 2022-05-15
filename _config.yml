@@ -184,6 +184,9 @@ collections:
   workshops:
     output: true
     permalink: /:collection/:path/
+  outreach:
+    output: true
+    permalink: /:collection/:path/
   resources:
     output: true
     permalink: /:collection/:path/
