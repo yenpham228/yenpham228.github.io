@@ -1,7 +1,10 @@
 ---
+layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /teaching
 ---
 
 During my PhD, I was enrolled as a "Doctorant Contractuel Enseignant". I teached 64h per year to Master students in biology, for 3 years (total: 192h). I led the following classes:
