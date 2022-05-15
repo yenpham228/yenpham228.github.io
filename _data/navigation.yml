@@ -1,5 +1,8 @@
 # main links links
 main:
+  #- title: "Projects"
+  #  url: /projects/
+    
   - title: "Publications"
     url: /publications/
 
@@ -15,8 +18,26 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
+  #- title: "Guide"
+  #  url: /markdown/
+  
+  - title: "Code"
+    url: /code/
+  
+  - title: "Workshops"
+    url: /workshops/
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  - title: "Outreach"
+    url: /scicom/
+    
   - title: "CV"
     url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Resources"
+    url: /resources/
+    
+  #- title: "Contact"
+  #  url: /contact/
