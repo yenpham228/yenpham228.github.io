@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
 ---
 
 You can download a PDF copy of my CV [here](/files/pdf/AudreyDenizotCV.pdf).
