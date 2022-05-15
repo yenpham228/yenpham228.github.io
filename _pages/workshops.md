@@ -2,9 +2,6 @@
 permalink: /workshops/
 title: "Workshops"
 ---
-
-I have participated in the organization of the following workshops:
-
 ## Computational approaches for studying astrocyte dynamics and astrocyte-neuron communication
 This workshop was hosted at the Annual Computational Neuroscience meeting CNS*2021, by the [Organization for Computational Neurosciences](https://www.cnsorg.org/). 
 Speakers: Yukiko Goda, Riken, Japan; Alla Borisyuk, University of Utah, USA; Jennifer Shih, MIT, USA; Annalisa Scimemi, University of Albany, USA; Guoqiang Yu, Virginia Tech, USA; Laszlo Heja, Hungarian Academy of Sciences, Hungary; Anup Pillai, University of Ottawa, Canada; Renaud Jolivet, Université de Genève, Switzerland;  Max Collard (Poskanzer lab), UCSF, USA; Audrey Denizot, OIST, Japan; Ron Refaeli, The Hebrew University, Israel; Kerstin Lenk, Graz University of Technology, Austria.
