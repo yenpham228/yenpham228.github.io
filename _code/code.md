@@ -3,7 +3,7 @@ permalink: /code/
 title: "Code"
 ---
 
-You can find below the scripts developed in my research project.
+You can find below the scripts developed in my research projects.
 
 # IP3R-dependant Ca2+ signaling in fine astrocytic processes
 ![Summary of Denizot et al 2019 Model](/images/code/model-denizot2019.png)
