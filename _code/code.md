@@ -16,7 +16,7 @@ The code can be found [here](https://senselab.med.yale.edu/modeldb/ShowModel?mod
 - Voxel-based: stochastic, spatial, in 3 spatial dimensions, implented in python, using [STEPS software](http://steps.sourceforge.net/STEPS/default.php)
 
 # Simulations in idealistic 3D geometries of fine processes based on recent super-resolution microscopy data 
-<img src="https://github.com/adenizot/adenizot.github.io/tree/master/images/code/idealizedPAP-summary.png" width=70% height=70%>
+![Summary of Denizot et al 2021](/images/code/idealizedPAP-summary.png)
 
  Simulations published in [Denizot et al., bioRxiv, 2021](https://www.biorxiv.org/content/10.1101/2021.02.24.432635v4). Reaction-diffusion simulations were performed in 3D meshes that were designed from the latest data available from super-resolution microscopy on astrocytes from [Arizono et al., Nature Communications, 2020](https://www.nature.com/articles/s41467-020-15648-4). The high spatial resolution of this model allows to propose plausible mechanisms by which astrocyte morphology at the nanoscale, notably shaft width, can influence local calcium dynamics and thus affect specialized neuron-astrocyte communication. 
  The simulation code and 3D meshes designed in this study can be downloaded [here](https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=266928#tabs-1).
