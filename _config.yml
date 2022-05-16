@@ -49,8 +49,8 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   
-minimal_mistakes_skin: "default"
-minimal_mistakes_skin2: "dark"
+minimal_mistakes_skin: "dark"
+minimal_mistakes_skin_dark: "dark"
 
 # SEO Related
 google_site_verification :
