@@ -6,5 +6,5 @@ The goal of my work is to better understand how the brain functions, notably how
 
 To better understand the roles of astrocytes in brain function, I use computational approaches to study how they process information and how they communicate with neighboring cells, both in health and disease.
 
-[![Summary of research interest](/images/research/denizot-research.png)]( "Summary of research interest")
+![Summary of research interest](/images/research/denizot-research.png)
 Schematic created with vectorial images from Dr. [Misa Arizono](https://arizono0202.wixsite.com/misa-arizono).
