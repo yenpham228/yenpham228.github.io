@@ -12,5 +12,8 @@ Photography taken during an event organized by DéMesures in 2019, presenting an
 
 I am a member of the editorial and director boards of [Papier Mâché](https://papiermachesciences.org/), association providing a website for the dissemination of scientific publications, in French. Our objective is to make them accessible and understandable to all French speakers. Follow us on [Facebook](https://www.facebook.com/papiermachesciences/) and [Twitter](https://twitter.com/PapierMache_Sci) to learn about our most recent articles!
 
-![2 cells communicating via IP3R clusters](/images/outreach/pm-denizot-2021.jpg)
-Schematic presenting the content of the "papier mâché" that I wrote in 2021, entitled "Le confinement 2.0 : comment la localisation de certaines molécules impacte la capacité des cellules à communiquer". It summarizes the work from [Thillaiappan et al.](https://www.nature.com/articles/s41467-017-01644-8) on the influence of the location of IP3R clusters on calcium activity. You can find it [here](https://papiermachesciences.org/2021/02/21/le-confinement-2-0-comment-la-localisation-de-certaines-molecules-impacte-la-capacite-des-cellules-a-communiquer/?v=C) (in French).
+I wrote a "papier mâché" in 2021, entitled "Le confinement 2.0 : comment la localisation de certaines molécules impacte la capacité des cellules à communiquer". It summarizes the work from [Thillaiappan et al.](https://www.nature.com/articles/s41467-017-01644-8) on the influence of the location of IP3R clusters on calcium activity. You can find it [here](https://papiermachesciences.org/2021/02/21/le-confinement-2-0-comment-la-localisation-de-certaines-molecules-impacte-la-capacite-des-cellules-a-communiquer/?v=C) (in French).
+
+
+![Artistic photo of thrown dice](/images/outreach/dice-artscience-denizot.jpg)
+"Has'art" &copy; Audrey Denizot. Photography illustrating the randomness of the reactions that I model, represented here with dice in movement.
