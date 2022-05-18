@@ -9,6 +9,9 @@ redirect_from:
 
 During my PhD, I was enrolled as a "Doctorant Contractuel Enseignant". I teached 64h per year to Master students in biology, for 3 years (total: 192h). I led the following classes:
 
+![Reconstructed fiber tracts of a human brain, copyright Thomas Schulz.](/images/teaching/thomas-schulz-brain.jpg)
+&copy; Thomas Shulz. Visualization of reconstructed fiber tracts of a human brain.
+
 ## Enzymology
 Practicals in enzymology entitled "Extraction and purification of SAH-Hydrolase" for the [Biochimie et Biotechnologie](https://biosciences.insa-lyon.fr/fr/content/parcours-biochimie-et-biotechnologies) M1 students, at [INSA Lyon](https://www.insa-lyon.fr/), France.
 
