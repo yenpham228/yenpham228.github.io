@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yen Pham"
 title_separator          : "-"
 name                     : &name "Yen Pham"
-description              : # &description "Postdoctoral Fellow at the Computational Neuroscience Unit, OIST, Japan"
+description              : # &description "PhD candidate in Applied Physics at University of South Florida, Tampa, Florida"
 url                      : https://yenpham228.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yenpham228/yenpham228.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Audrey Denizot"
-  avatar           : "adenizot.jpg"
-  bio              : "Junior researcher (CR), INRIA, AIstroSight"
-  location         : "Villeurbanne, France"
+  name             : "Yen Pham"
+  avatar           : "yen_picture.jpg"
+  bio              : "PhD candidate in Applied Physics at University of South Florida"
+  location         : "Tampa, Florida"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=c4C2mSsAAAAJ"
-  email            : "audrey.denizot@inria.fr"
-  researchgate     :  "https://www.researchgate.net/profile/Audrey-Denizot"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=rYFNNxMAAAAJ&hl=en"
+  email            : "yenpham1@usf.edu"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adenizot"
+  github           : "yenpham228"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "audrey-denizot-180684201"
-  orcid            : "https://orcid.org/0000-0002-3336-0163"
+  linkedin         : "https://www.linkedin.com/in/thihaiyenpham/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "adenizot"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
