@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Videos"
-    url: /videos/
+  #- title: "Videos"
+  # url: /videos/
     
   - title: "Publications"
     url: /publications/
@@ -21,17 +21,17 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   #- title: "Guide"
-  #  url: /markdown/
+   # url: /markdown/
   
-  - title: "Code"
-    url: /code/
+  #- title: "Code"
+  #  url: /code/
   
-  - title: "Workshops"
-    url: /workshops/
+  #- title: "Workshops"
+  #  url: /workshops/
 
   - title: "Teaching"
     url: /teaching/
